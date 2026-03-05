@@ -36,7 +36,7 @@ const Login = () => {
           toast.success("Log In Successfull")
           navigate('/')
         } else {
-          toast.error("Error Registering User")
+          toast.error("Error Verifying User")
         }
       } else {
         toast.error("Incorrect Login State provided")
