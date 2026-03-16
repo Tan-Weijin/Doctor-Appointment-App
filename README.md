@@ -48,9 +48,8 @@ The frontend was developed using React and Tailwind CSS to create a responsive a
 
 * Maintain overall control of the platform
 
-### Test Patient Account 
-Account: test@prescripto.com  
-Password: test_account_123
+### Website
+https://doctor-appointment-frontend-7a71.onrender.com/  
 
 ### Test Doctor Account 
 Account: johndoe@prescripto.com  
