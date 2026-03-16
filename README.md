@@ -49,9 +49,9 @@ The frontend was developed using React and Tailwind CSS to create a responsive a
 * Maintain overall control of the platform
 
 ### Test Patient Account 
-Account: test@prescripto.com
+Account: test@prescripto.com  
 Password: test_account_123
 
 ### Test Doctor Account 
-Account: johndoe@prescripto.com
+Account: johndoe@prescripto.com  
 Password: test_account_123
