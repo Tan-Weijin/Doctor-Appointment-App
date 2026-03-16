@@ -48,8 +48,11 @@ The frontend was developed using React and Tailwind CSS to create a responsive a
 
 * Maintain overall control of the platform
 
-### Website
+### Patient Website
 https://doctor-appointment-frontend-7a71.onrender.com/  
+
+### Doctor/Admin Website  
+https://doctor-appointment-admin-4nlp.onrender.com/
 
 ### Test Doctor Account 
 Account: johndoe@prescripto.com  
