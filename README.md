@@ -6,7 +6,7 @@ The platform supports three user roles: patients, doctors, and admins. Patients 
 
 The frontend was developed using React and Tailwind CSS to create a responsive and user-friendly interface. The backend was built with Node.js and Express, where RESTful APIs handle authentication, appointment booking, and data management. MongoDB is used to store user, doctor, and appointment data.
 
-Patient Features
+### Patient Features
 
 * Register and log in to a personal account
 
@@ -22,7 +22,7 @@ Patient Features
 
 * Manage and update personal profile information
 
-Doctor Features
+### Doctor Features
 
 * Log in to a dedicated doctor dashboard
 
@@ -34,7 +34,7 @@ Doctor Features
 
 * Manage availability for appointments
 
-Admin Features
+### Admin Features
 
 * Log in to the admin panel
 
